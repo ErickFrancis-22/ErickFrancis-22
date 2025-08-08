@@ -1,0 +1,45 @@
+<!-- Banner -->
+<img src="https://github.com/ErickFrancis-22/ErickFrancis-22/blob/main/banner.png" width="100%" alt="Banner Erick">
+
+
+# Hey, I'm Erick! 👋
+🚀 Passionate about **technology**, **cybersecurity**, and **software development**.
+
+[![Gmail Badge](https://img.shields.io/badge/-Erick_Hernández-c14438?style=social&logo=Gmail&logoColor=red)](mailto:erickfrancishernandez@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ErickFrancis-22?label=Follow&style=social)](https://github.com/ErickFrancis-22)
+![Profile Views](https://komarev.com/ghpvc/?username=ErickFrancis-22&color=blue&style=flat)
+
+---
+
+### 💡 About Me
+- 💻 Tech enthusiast & problem solver  
+- 🛡️ Cybersecurity advocate  
+- 📚 Constant learner of new technologies  
+- 🌍 From El Salvador to the world  
+
+---
+
+### 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErickFrancis-22&theme=dracula)](https://git.io/streak-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickFrancis-22&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFrancis-22&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🎯 Fun Fact
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+![Snake animation](https://github.com/ErickFrancis-22/ErickFrancis-22/blob/output/github-contribution-grid-snake.svg)
