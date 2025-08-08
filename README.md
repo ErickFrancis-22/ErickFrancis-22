@@ -42,4 +42,5 @@
 
 ---
 
-![Snake animation](https://github.com/ErickFrancis-22/ErickFrancis-22/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ErickFrancis-22/ErickFrancis-22/blob/output/snake.svg)
+
