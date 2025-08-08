@@ -13,7 +13,6 @@
 
 ### 💡 About Me
 - 💻 Tech enthusiast & problem solver  
-- 🛡️ Cybersecurity advocate  
 - 📚 Constant learner of new technologies  
 - 🌍 From El Salvador to the world  
 
@@ -38,9 +37,4 @@
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
-![Snake animation](https://github.com/ErickFrancis-22/ErickFrancis-22/blob/output/github-snake.svg)
-![Snake animation dark](https://github.com/ErickFrancis-22/ErickFrancis-22/blob/output/github-snake-dark.svg)
-![Snake ocean](https://github.com/ErickFrancis-22/ErickFrancis-22/blob/output/ocean.gif)
-
 
