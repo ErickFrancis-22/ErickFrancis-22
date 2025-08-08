@@ -40,7 +40,3 @@
 ### 🎯 Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
----
-
-![Snake animation](https://github.com/ErickFrancis-22/ErickFrancis-22/blob/output/snake.svg)
-
