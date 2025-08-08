@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Corre todos los días a medianoche UTC
-  workflow_dispatch:    # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *" # Corre cada día a medianoche UTC
+  workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Subir a rama output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
