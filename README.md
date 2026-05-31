@@ -1,23 +1,7 @@
 <!-- Banner -->
 <img src="https://github.com/ErickFrancis-22/ErickFrancis-22/blob/main/banner.png" width="100%" alt="Banner Erick">
 
-<table>
-  <tr>
-    <td>
-      <h1>Hey, I'm Erick! 👋</h1>
-      <p>🚀 Passionate about Backend Development with Go, Cloud Infrastructure, and Linux/DevOps automation.</p>
-      
-      <p>
-        <a href="mailto:erickfrancishernandez@gmail.com"><img src="https://img.shields.io/badge/-Erick_Hernández-c14438?style=social&logo=Gmail&logoColor=red"></a>
-        <a href="https://github.com/ErickFrancis-22"><img src="https://img.shields.io/github/followers/ErickFrancis-22?label=Follow&style=social"></a>
-        <img src="https://komarev.com/ghpvc/?username=ErickFrancis-22&color=blue&style=flat">
-      </p>
-    </td>
-    <td>
-      <img src="https://github.com/ErickFrancis-22.png" width="200px" style="border-radius: 50%;">
-    </td>
-  </tr>
-</table>
+# Hey, I'm Erick! 👋
 
 🚀 Passionate about Backend Development with Go, Cloud Infrastructure, and Linux/DevOps automation.
 
