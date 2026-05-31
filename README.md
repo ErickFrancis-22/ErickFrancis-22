@@ -14,7 +14,7 @@
 ### 💡 About Me
 - 💻 Tech enthusiast & problem solver  
 - 📚 Constant learner of new technologies  
-- 🌍 From El Salvador to the world  
+- 🌍 From El Salvador to the world 
 
 ---
 
@@ -38,6 +38,15 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFrancis-22&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+---
+
+resource "Software_Developer_Student" "Erick_Francis_Skills" {
+  focus   = [Backend_Development, Infrastructure_Automation]
+  languages = [Golang, JavaScript, SQL]
+  tools     = [Docker, Git, RHEL, Linux]
+  learning  = [DevOps_Path, C_Sharp]
+}
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
