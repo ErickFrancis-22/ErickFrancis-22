@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://github.com/ErickFrancis-22/ErickFrancis-22/blob/main/banner.png" width="100%" alt="Banner Erick">
-
 # Hey, I'm Erick! 👋
 
 🚀 Passionate about Backend Development with Go, Cloud Infrastructure, and Linux/DevOps automation.
