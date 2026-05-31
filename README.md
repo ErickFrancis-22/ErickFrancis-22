@@ -3,7 +3,7 @@
 
 
 # Hey, I'm Erick! 👋
-🚀 Passionate about **technology**, **cybersecurity**, and **software development**.
+🚀 Passionate about Backend Development with Go, Cloud Infrastructure, and Linux/DevOps automation.
 
 [![Gmail Badge](https://img.shields.io/badge/-Erick_Hernández-c14438?style=social&logo=Gmail&logoColor=red)](mailto:erickfrancishernandez@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ErickFrancis-22?label=Follow&style=social)](https://github.com/ErickFrancis-22)
@@ -19,11 +19,16 @@
 ---
 
 ### 🛠️ Technologies & Tools
+![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![RHEL](https://img.shields.io/badge/-RHEL-CC0000?logo=redhat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
 
 ---
 
