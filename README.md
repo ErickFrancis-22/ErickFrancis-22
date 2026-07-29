@@ -1,6 +1,6 @@
 # Hey, I'm Erick! 👋
 
-🚀 Passionate about Backend Development with Go, Cloud Infrastructure, and Linux/DevOps automation.
+🚀 Passionate about Backend Development with Go, C#, Cloud Infrastructure, and Linux/DevOps automation.
 
 [![Gmail Badge](https://img.shields.io/badge/-Erick_Hernández-c14438?style=social&logo=Gmail&logoColor=red)](mailto:erickfrancishernandez@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ErickFrancis-22?label=Follow&style=social)](https://github.com/ErickFrancis-22)
